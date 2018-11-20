@@ -1,0 +1,31 @@
+https://www.wired.com/story/ocean-cleanup-skeptical-scientists/
+
+Test 2
+
+PLASTIC CATCHER HEADS TO SEA. BUT SCIENTISTS ARE SKEPTICAL
+
+THIS WEEKEND, A project of staggering ambition will sail past San Francisco and out to sea through the Golden Gate. The invention of an organization called the Ocean Cleanup, it consists of a 600-meter-long plastic tube with a dangling screen that a ship will tow 240 nautical miles out to sea for testing. If that pans out, it’ll head another 1,000 miles out to the Great Pacific Garbage Patch, where the U-shaped system will autonomously gather floating plastic for a vessel to come along and scoop up every six weeks or so, like a garbage truck. The Ocean Cleanup says it aims to cut the amount of plastic in the patch in half in five years.
+
+The oceans have a major plastic problem—over 5 trillion pieces of plastic currently taint the seas, and the Garbage Patch is only growing. Accordingly, Ocean Cleanup has raised $40 million from donors and companies. But many scientists don’t think Ocean Cleanup’s plan holds water. In June, Southern Fried Science, a marine science website, did a survey of 15 ocean plastic pollution experts. More than half had serious concerns about the project, and a quarter thought it was just a bad idea.
+
+“It's certainly ambitious,” oceanographer Kim Martini, who has studied the Ocean Cleanup campaign, tells WIRED. “It oversimplifies a very complicated problem that people have thought a lot about.”
+
+One issue is that we don’t yet know how ocean plastic is distributed in the water column. “The fact is, a lot of plastic isn't at the surface,” says Martini. “There's a lot of research showing that it's sinking.” A plastic bottle, for instance, will fill with water and sink to the seafloor. And tiny bits of degraded plastic can swirl up and down the water column. The free-floating Ocean Cleanup system may well snag the bits at the surface, but with a screen made of woven polyurethane that hangs down 3 meters at its lengthiest, it’s limited in what it can reach.
+
+“There's also the fact that you're collecting and aggregating plastics, and so that's actually going to attract more animals to it,” says Martini. “All this marine debris, things rest on it, things like to grow on it—it's kind of a marine desert out there. It's amazing what a fish will do for a little bit of shade.”
+
+Another concern is that organisms such as bacteria and algae will start to grow on the device itself, which could increase drag and the weight of the structure, and potentially change how the dangling screens behave. Ocean Cleanup, though, says it’s designed the system to be as smooth as possible, to discourage such growth. And while the organization admits the device might attract curious sea life, it insists the system poses no threat.
+
+“We designed the system such that there is basically no risk of entanglement,” says Arjen Tjallema, technology manager at Ocean Cleanup. “So if a fish or a whale or another animal would come close to the system, then it’s relatively harmless.” Yet rogue fishing nets—which Ocean Cleanup’s research says make up perhaps half of the trash mass in the Great Pacific Garbage Patch—could float into the piping, get stuck, and ensnare turtles and other ocean life. Still, doing nothing about the plastic problem isn’t helping marine life either.
+
+Then there’s the issue of the open ocean beating the hell out of the system and turning it into part of the problem it’s trying to solve. Because the tube, after all, is made of 600 meters of plastic. Even UV light may be a problem, as it can bombard plastic and cause it to shed tiny bits. Ocean Cleanup, though, says its high-density polyethylene plastic can reflect UV radiation.
+
+“I sort of wonder what kinds of microplastics this thing is going to be generating on its own, assuming that it's even functioning exactly as designed,” says oceanographer Kara Lavender Law of the Sea Education Association. Worse yet, the thing could snap in a storm. “If it's shedding nano-size particles and then gets smashed into 200-meter-long pieces, you're really covering the whole size range there.”
+
+Ocean Cleanup says it has done hundreds of scale model tests of the system and tested prototypes in the North Sea. It adds that the system is designed to weather the waves of a once-in-a-century storm. If the device happens to wander out of the Great Pacific Garbage Patch gyre, Ocean Cleanup says it will dispatch a boat to tow it back into place.
+
+Given the concerns about Ocean Cleanup’s plan, Law wonders whether it might not be better for (lowercase) ocean cleanups to tackle other, safer targets. “Why not focus your efforts much closer to rivers or places we suspect most of this debris is originating?” she suggests.
+
+This is the approach taken by the Waterfront Partnership of Baltimore. It has deployed giant trash wheels complete with googly eyes known as … Mr. Trash Wheel and Professor Trash Wheel, which use the river’s own current to power a wheel that lifts trash out of the water and into a dumpster barge. (If the river is running too slowly, solar power kicks in to get the wheel going.) Together, the devices have pulled 900 tons of trash from the waters around Baltimore.
+
+Ocean Cleanup’s plan is more ambitious. If the first system checks out over the next few weeks, it’ll head farther out to sea to get to work. The end goal? Sixty giant pipes floating out there. “It's a grand experiment that they're conducting,” says Law. “It would not be my first choice for an intervention, especially out in the middle of the ocean, but we'll see what happens.”
