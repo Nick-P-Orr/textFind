@@ -2,12 +2,17 @@ from collections import OrderedDict
 from operator import itemgetter
 import re, plotly.graph_objects as go
 import plotly.io as pio
+from threading import Thread
+from time import sleep
 
 nlf = '\n'
 
-f = open("Article3.txt", "rb")
-text = (f.read()).decode('utf-8')
+myText = open("decleration.txt", "rb")
+text = (myText.read()).decode('utf-8')
 s = text.split()
+
+textLength = len(text)
+print(textLength)
 
 #removes special characters and capitalization of each word
 for x in range(len(s)):
@@ -18,21 +23,30 @@ for x in range(len(s)):
 
 #list of just one occurence of values
 unique = []
-#Empty string for loop
-z = ''
 #Dictionary for frequency
 occurences = {}
 numbs = []
 
-for x in range(len(s)):
-    c = 0
-    z = s[x]
-    c = s.count(z)
 
-    if z not in unique:
-        unique.append(z)
-        occurences[z] = c
-        numbs.append(c)
+
+def wordSearch(s):
+    #Empty string for loop
+    z = ''
+    global unique
+    global numbs
+
+    for x in range(len(s)):
+        c = 0
+        z = s[x]
+        c = s.count(z)
+
+        if z not in unique:
+            unique.append(z)
+            occurences[z] = c
+            numbs.append(c)
+            
+
+wordSearch(s)
 
 unique.sort()
 numbs.sort()
@@ -44,7 +58,7 @@ del d[""]
 
 datad = d.items
 
-print(datad())
+#print(datad())
 
 datak = d.keys
 
@@ -59,4 +73,4 @@ fig = go.Figure(
 fig.show()
 
 
-f.close()
+myText.close()
